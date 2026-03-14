@@ -1,13 +1,13 @@
 // Definindo um array global
 const times = ["São Paulo", "Manchester United", "Milan", "Rayo Vallecano"];
 
-// Utilizando o indexOf()
+// Utilizando o método indexOf()
 let posicaoItem = times.indexOf("Milan");
 
 console.log(times);
 console.log(posicaoItem);
 
-// Utilizando o lastIndexOf()
+// Utilizando o método lastIndexOf()
 const times2 = ["São Paulo", "Stuttgart", "São Paulo", "Braga"];
 
 let posicaoItem2 = times2.lastIndexOf("São Paulo");
