@@ -79,7 +79,7 @@ const veiculos = motos.concat(carros);
 console.log(veiculos);
 
 // Utilizando o copyWithin() //
-let copiaItems = frutas.copyWithin(2, 0);
+// let copiaItems = frutas.copyWithin(2, 0);
 
 console.log(frutas);
 
