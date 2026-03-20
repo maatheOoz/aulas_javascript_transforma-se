@@ -2,3 +2,17 @@ body {
     background-color: ghostwhite;
     font-family: sans-serif;
 }
+
+#container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color: darkred;
+}
+
+#animacao {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: darkcyan;
+}
