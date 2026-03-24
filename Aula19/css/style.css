@@ -1,0 +1,8 @@
+body {
+    background-color: ghostwhite;
+    font-family: sans-serif;
+}
+
+.ativo {
+    color: orangered;
+}
