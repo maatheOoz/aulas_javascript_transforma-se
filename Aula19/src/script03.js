@@ -39,4 +39,4 @@ function produto(p1, p2) {
     return p1 * p2;
 };
 
-// Propagação de eventos (bu)
+// Propagação de eventos (bubbling e capture)
